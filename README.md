@@ -20,7 +20,7 @@ I want to help organisations move their processes onto cloud infrastructure they
 - 🔬 **Lab habit:** strict SOPs and documented steps, because reproducible work matters, in the lab and in software
 - ☁️ **Now:** C++ and systems programming, Linux server administration, and OpenStack
 - 📚 **Learning:** GxP, GAMP 5 and computer system validation
-**Contact:** stephanliu.me
+**Contact:** [stephanliu.me](https://stephanliu.me)
 
 ### Tech stack
 
